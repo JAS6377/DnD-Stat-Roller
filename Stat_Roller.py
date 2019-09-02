@@ -1,3 +1,6 @@
+# Created by Jason Smith
+# September 2, 2019
+
 # Define Variables
 import random
 import math
