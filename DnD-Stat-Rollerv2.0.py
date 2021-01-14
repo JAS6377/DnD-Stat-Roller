@@ -2,9 +2,10 @@
 # January 13, 2021
 # Base code taken from https://github.com/JAS6377/DnD-Stat-Roller/blob/master/Stat_Roller.py
 
-# Define Variables
 import random
 import math
+
+# Define Variables
 stats = int(input("How many stats would you like to roll? -- "))
 print()
 diesize = 6
