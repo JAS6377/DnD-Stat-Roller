@@ -6,6 +6,7 @@
 import random
 import math
 stats = int(input("How many stats would you like to roll? -- "))
+print()
 diesize = 6
 rolls = int(input("How many dice per stat (3 for hardcore, 4 will drop the lowest from each set)? -- "))
 statoutput = []
